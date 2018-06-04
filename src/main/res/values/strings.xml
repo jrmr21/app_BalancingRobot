@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PROJET</string>
+    <string name="avancer">Avancer</string>
+    <string name="avancer_gauche">Gauche</string>
+    <string name="avancer_droite">Droite</string>
+    <string name="reculer">Reculer</string>
+    <string name="bluetooth">Bluetooth</string>
+</resources>
